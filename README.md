@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/alborotogarcia/pysampleboro/actions?query=workflow%3ACI">
-    <img src="https://img.shields.io/github/workflow/status/alborotogarcia/pysampleboro/CI/main?label=CI&logo=github&style=flat-square" alt="CI Status" >
+    <img src="https://img.shields.io/github/workflow/status/alborotogarcia/pysampleboro/CI/master?label=CI&logo=github&style=flat-square" alt="CI Status" >
   </a>
   <a href="https://pysampleboro.readthedocs.io">
     <img src="https://img.shields.io/readthedocs/pysampleboro.svg?logo=read-the-docs&logoColor=fff&style=flat-square" alt="Documentation Status">

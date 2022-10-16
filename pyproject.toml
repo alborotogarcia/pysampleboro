@@ -20,7 +20,7 @@ packages = [
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/alborotogarcia/pysampleboro/issues"
-"Changelog" = "https://github.com/alborotogarcia/pysampleboro/blob/main/CHANGELOG.md"
+"Changelog" = "https://github.com/alborotogarcia/pysampleboro/blob/master/CHANGELOG.md"
 
 [tool.poetry.dependencies]
 python = "^3.7"
@@ -42,7 +42,7 @@ pytest = "^7.0"
 pytest-cov = "^3.0"
 
 [tool.semantic_release]
-branch = "main"
+branch = "master"
 version_toml = "pyproject.toml:tool.poetry.version"
 version_variable = "src/pysampleboro/__init__.py:__version__"
 build_command = "pip install poetry && poetry build"
