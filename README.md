@@ -44,8 +44,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- prettier-ignore-start -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<!-- markdownlint-enable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alborotogarcia"><img src="https://avatars.githubusercontent.com/u/59288789?v=4?s=80" width="80px;" alt="alborotogarcia"/><br /><sub><b>alborotogarcia</b></sub></a><br /><a href="https://github.com/alborotogarcia/pysampleboro/commits?author=alborotogarcia" title="Code">💻</a> <a href="#ideas-alborotogarcia" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alborotogarcia/pysampleboro/commits?author=alborotogarcia" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-end -->
 
