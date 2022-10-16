@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pysampleboro"
-version = "0.0.1"
+version = "0.1.0"
 description = "My Python package to help you get up to speed."
 authors = ["Alvaro Gallego <agallego@achlys.tech>"]
 license = "MIT"
