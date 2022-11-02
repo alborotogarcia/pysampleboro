@@ -18,7 +18,7 @@ from typing import List
 # -- Project information -----------------------------------------------------
 
 project = "pysampleboro"
-copyright = "2020, Alvaro Gallego"
+copyright = "2022, Alvaro Gallego"
 author = "Alvaro Gallego"
 
 
