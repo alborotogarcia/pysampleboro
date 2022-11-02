@@ -2,6 +2,17 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.0 (2022-11-02)
+### Feature
+* Release v0.1.0 ([`dcaca91`](https://github.com/alborotogarcia/pysampleboro/commit/dcaca917fc74b97691b5238ee2cf1a07ddaa315c))
+* Bump version ([`40f0e98`](https://github.com/alborotogarcia/pysampleboro/commit/40f0e98055ebd2727fad70a43572a0e4852c6260))
+* Fix versioning ([`9b7c68a`](https://github.com/alborotogarcia/pysampleboro/commit/9b7c68a5f26b9d5a04a355f5e63dc53d3ed5b172))
+* Bump actions ([`97f497d`](https://github.com/alborotogarcia/pysampleboro/commit/97f497dc6f50826134def255e42dac21cd4484b8))
+* Packaging dep ([`b9ccd8e`](https://github.com/alborotogarcia/pysampleboro/commit/b9ccd8ec86dbeafd190238e1a8b2b23149c9a689))
+
+### Fix
+* Bump version 0.2.0 ([`80ae0ab`](https://github.com/alborotogarcia/pysampleboro/commit/80ae0abda46a087c248fd585af733b368f6a9642))
+
 ## v0.1.0 (2022-10-16)
 ### Feature
 * Added exclude_patterns type ([`a879d37`](https://github.com/alborotogarcia/pysampleboro/commit/a879d371c0d54cc8ff803292981dd2cc51fbb720))
