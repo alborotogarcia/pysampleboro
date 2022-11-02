@@ -2,6 +2,14 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2022-11-02)
+### Feature
+* Sub ([`fe6d227`](https://github.com/alborotogarcia/pysampleboro/commit/fe6d227b019a952cbedf1ce42678f5b6125b69a5))
+
+### Fix
+* Lint ([`4183391`](https://github.com/alborotogarcia/pysampleboro/commit/4183391273f50de94cb76ae47d82eab87565f8cb))
+* Sub test ([`2eb5a21`](https://github.com/alborotogarcia/pysampleboro/commit/2eb5a21919ffdf898f021fa8c214a857c62e00d1))
+
 ## v0.2.0 (2022-11-02)
 ### Feature
 * Release v0.1.0 ([`dcaca91`](https://github.com/alborotogarcia/pysampleboro/commit/dcaca917fc74b97691b5238ee2cf1a07ddaa315c))
