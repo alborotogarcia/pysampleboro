@@ -1,4 +1,4 @@
-from pysampleboro.main import sub
+from pysampleboro.main import add, sub
 
 
 def test_add():
